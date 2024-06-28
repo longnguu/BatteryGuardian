@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Battery Guardian</string>
+    <string name="text_status">Battery Status</string>
+    <string name="text_battery_percent">Battery Percentage</string>
+    <string name="text_battery_capacity">Battery Capacity</string>
+    <string name="text_battery_technology">Battery Technology</string>
+    <string name="text_battery_temperature">Battery Temperature</string>
+    <string name="text_voltage">Voltage Level</string>
+    <string name="text_battery_information">Battery Information</string>
+    <string name="text_battery_setting">Battery Settings</string>
+    <string name="text_notifications">Notifications</string>
+    <string name="text_app_setting">Settings</string>
+    <string name="text_charging_animation">Charging Animation</string>
+    <string name="text_durations">Animation Duration</string>
+    <string name="text_turn_off_anm_when">Turn Off Animation When</string>
+    <string name="text_language">Language</string>
+    <string name="text_charging_animations">Charging Animations</string>
+    <string name="text_please_wait">Please Wait...</string>
+    <string name="text_battery_health">Battery Health</string>
+    <string name="battery_health_cold">Cold</string>
+    <string name="battery_health_dead">Dead</string>
+    <string name="battery_health_good">Good</string>
+    <string name="battery_health_over_voltage">Over Voltage</string>
+    <string name="battery_health_overheat">Overheat</string>
+    <string name="battery_health_unspecified_failure">Unspecified Failure</string>
+    <string name="battery_health_unknown">Unknown</string>
+    <string name="battery_status_charging">Charging</string>
+    <string name="battery_status_discharging">Discharging</string>
+    <string name="battery_status_full">Full</string>
+    <string name="battery_status_not_charging">Not Charging</string>
+    <string name="battery_status_unknown">Unknown</string>
+    <string name="battery_status_default">Unknown</string>
+    <string name="text_battery_protect">Battery protect</string>
+    <string name="text_percent_top">Top</string>
+    <string name="text_percent_bottom">Bottom</string>
+    <string name="select_language">Select language</string>
+    <string-array name="duration_options">
+        <item>5s</item>
+        <item>10s</item>
+        <item>15s</item>
+        <item>Do Not Turn Off</item>
+    </string-array>
+    <string-array name="turnoff_animation">
+        <item>Tap</item>
+        <item>Double Tap</item>
+    </string-array>
+</resources>

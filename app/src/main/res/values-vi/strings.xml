@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Battery Guardian</string>
+    <string name="text_status">Trạng thái pin</string>
+    <string name="text_battery_percent">Phần trăm pin</string>
+    <string name="text_battery_capacity">Dung lượng pin</string>
+    <string name="text_battery_technology">Công nghệ pin</string>
+    <string name="text_battery_temperature">Nhiệt độ pin</string>
+    <string name="text_voltage">Mức điện áp</string>
+    <string name="text_battery_information">Thông tin pin</string>
+    <string name="text_battery_setting">Cài đặt pin</string>
+    <string name="text_notifications">Thông báo</string>
+    <string name="text_app_setting">Cài đặt</string>
+    <string name="text_charging_animation">Hoạt ảnh khi sạc</string>
+    <string name="text_durations">Thời lượng hoạt ảnh</string>
+    <string name="text_turn_off_anm_when">Tắt hoạt ảnh khi</string>
+    <string name="text_language">Ngôn ngữ</string>
+    <string name="text_charging_animations">Hoạt ảnh sạc</string>
+    <string name="text_please_wait">Vui lòng đợi xíu ...</string>
+    <string name="text_battery_health">Tình trạng pin</string>
+    <string name="battery_health_cold">Lạnh</string>
+    <string name="battery_health_dead">Hỏng</string>
+    <string name="battery_health_good">Tốt</string>
+    <string name="battery_health_over_voltage">Quá áp</string>
+    <string name="battery_health_overheat">Quá nóng</string>
+    <string name="battery_health_unspecified_failure">Lỗi không xác định</string>
+    <string name="battery_health_unknown">Không rõ</string>
+    <string name="battery_status_charging">Đang sạc</string>
+    <string name="battery_status_discharging">Đang sử dụng pin</string>
+    <string name="battery_status_full">Đầy pin</string>
+    <string name="battery_status_not_charging">Không sạc</string>
+    <string name="battery_status_unknown">Không rõ</string>
+    <string name="battery_status_default">Không rõ</string>
+    <string name="text_battery_protect">Bảo vệ pin</string>
+    <string name="text_percent_top">Mức pin trên</string>
+    <string name="text_percent_bottom">Mức pin dưới</string>
+    <string name="select_language">Chọn ngôn ngữ</string>
+    <string-array name="duration_options">
+        <item>5s</item>
+        <item>10s</item>
+        <item>15s</item>
+        <item>Không tắt</item>
+    </string-array>
+    <string-array name="turnoff_animation">
+        <item>Chạm</item>
+        <item>Nhấn đúp</item>
+    </string-array>
+</resources>
